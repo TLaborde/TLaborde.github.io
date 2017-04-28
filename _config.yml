@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Get-Stuffdone
+description:      Rambling about PowerShell and programming in general
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,16 +9,16 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Thomas Laborde
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "Tinkerer by tradition, DevOps by trade."
+  email:          thomas.laborde@rakuten.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github: https://github.com/TLaborde
   stackexchange:  
-  linkedin:       
+  linkedin: https://www.linkedin.com/in/thomas-laborde-4a5b8719/
   instagram:      
   flickr:         
   tumblr:         
@@ -52,7 +52,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM

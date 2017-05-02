@@ -3,7 +3,7 @@ layout: post
 title: "Generating Anime Avatar with Powershell (and some flash game)"
 description: "Module generating a unique avatar using a webBrowser and a lot of stupid shortcut"
 modified: 2017-05-02
-tags: [powershell idea webbrowser generate]
+tags: [powershell, idea, webbrowser, generator]
 ---
 
 ## Context

@@ -2,7 +2,7 @@
 layout: post
 title: "Better Tasks in PowerShell (Part 1): A New Start"
 description: "Out of the box work with Task scheduler and powershell"
-modified: 2014-12-24
+modified: 2017-05-01
 tags: [powershell task]
 ---
 PowerShell allows SysAdmins to write simple tools which can be distributed to lower level support or even users, which in turn give more time to SysAdmins to work on more important business (watching YouTube, trolling #powershell on slack...). But, in some case, it's possible to totally remove the middle-man and write a script that will run periodically, without any user input. This serie of Post will focus on the differences between writing code for users and for full automation. If you want more information about the best way to write user-friendly code, there are already a lot of ressource on that all around the web.

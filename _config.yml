@@ -1,6 +1,6 @@
 title:            Get-Stuffdone
 description:      Rambling about PowerShell and programming in general
-disqus_shortname: tlaborde.disqus.com
+disqus_shortname: tlaborde
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -16,9 +16,9 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github: https://github.com/TLaborde
+  github: TLaborde
   stackexchange:  
-  linkedin: https://www.linkedin.com/in/thomas-laborde-4a5b8719/
+  linkedin: thomas-laborde-4a5b8719
   instagram:      
   flickr:         
   tumblr:         

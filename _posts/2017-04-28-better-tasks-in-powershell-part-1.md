@@ -50,4 +50,4 @@ Compared to a batch, you need to execute powershell.exe and pass the script path
 
 That's enough code to start to be dangerous, since we don't do any test, we don't have log or run it unmonitored, but it's also a short way to get value from PowerShell. Once the script is running, it will run until the cold death of the Universe (or until someone shut down the VM where it's running...).
 
-Next time, we generate documentation for the task... but in the laziest way possible.
+Next time, we generate documentation for the task... but in the laziest way possible. And we do it soon!
